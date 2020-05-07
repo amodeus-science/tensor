@@ -86,7 +86,7 @@
 						<include>**/*</include>
 					</includes>
 					<repositoryName>tensor</repositoryName>
-					<repositoryOwner>datahaki</repositoryOwner>
+					<repositoryOwner>amodeus-science</repositoryOwner>
 				</configuration>
 				<executions>
 					<execution>
